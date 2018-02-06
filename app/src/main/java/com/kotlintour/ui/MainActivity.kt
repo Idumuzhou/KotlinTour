@@ -111,6 +111,7 @@ class MainActivity : AppCompatActivity() {
             Color.RED -> "Richard"
             Color.ORANGE -> "Of"
             Color.YELLOW -> "Yellow"
+
         }
     }
 
@@ -223,4 +224,6 @@ class MainActivity : AppCompatActivity() {
 //                            "A percentage 0 and 100 $number"
 //                    )
     }
+
+
 }

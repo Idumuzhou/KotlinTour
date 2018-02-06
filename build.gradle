@@ -19,6 +19,11 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven { url "https://jitpack.io" }
+    }
+
+    ext {
+        supportVersion = "26.+"
     }
 }
 
